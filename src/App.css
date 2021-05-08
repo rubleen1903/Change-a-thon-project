@@ -21,11 +21,10 @@
 .main-footer {
     display: flex;
     justify-content: space-between;
+    color: #000;
 }
 
-.white {
-    color: white;
-}
+
 
 .title {
     font-weight: 500;
@@ -39,7 +38,7 @@
     font-size: 1.2em;
     margin-bottom: 2rem;
     text-decoration: none;
-    color: white;
+    color: black;
     padding-left: 2rem;
 }
 
@@ -49,14 +48,18 @@
     margin: 0 auto;
     padding: 0;
     flex-grow: 1;
-    background-color: #ffe3fe;
+    background-color: #FEFFDE;
 }
 
 .logo {
     height: 6rem;
 }
 .home-img{
-  height:20rem;
+  height:10rem;
+  align-items: center;
+  margin-left: 25%;
+  padding-bottom: 3%;
+  
 }
 
 .header-text {

@@ -1,6 +1,15 @@
 .heading{
     font-family: Roboto;
-    font-size:64px;
+    font-size:30px;
     align-items: center;
+    margin-left: 40%;
+}
+
+.content{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
 }
  
